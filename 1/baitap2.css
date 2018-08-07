@@ -1,0 +1,30 @@
+#first {text-align: center;
+        font-size:24px; 
+        
+    }
+.center {
+	text-align: center;
+	font-weight: bold;
+}
+#h1 {text-align: center;
+    color: green;}
+
+ 
+.bold {font-weight: bold;
+      font-size: 18px;
+      margin-left: 60px;}
+.justify{text-align: justify;
+        font-size: 16px;
+        margin-left: 20px;
+        max-width: 1000px;}
+.time{
+      margin-left: 900px;}
+#camon{font-weight: bold;
+       font-size: 18px;
+      margin-left: 100px;
+       color: blue;}
+.sign{margin-left: 800px;
+     font-weight: bold;
+     }
+.ten{margin-left: 840px;
+     font-weight: bold;}
