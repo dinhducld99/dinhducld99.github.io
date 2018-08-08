@@ -1,0 +1,12 @@
+h1{color: green;
+   text-align: center;}
+.box{border: 1px black solid}
+img{width: 250px;}
+
+	
+.hinh {display: inline-block;
+	   margin-left: 60px;
+       }
+a:hover{
+	color: red;
+}
